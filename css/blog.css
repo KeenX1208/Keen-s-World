@@ -62,22 +62,22 @@
 }
 
 .c1 .img{
-    background-image: url("../image/project1.jpg");
+    background-image: url("/Keen-s-World/../image/project1.jpg");
 }
 .c1 .img:hover{
-    background-image: url("../image/project12.jpg");
+    background-image: url("/Keen-s-World/../image/project12.jpg");
 }
 .c2 .img{
-    background-image: url("../image/project21.jpg");
+    background-image: url("/Keen-s-World/../image/project21.jpg");
 }
 .c2 .img:hover{
-    background-image: url("../image/project22.jpg");
+    background-image: url("/Keen-s-World/../image/project22.jpg");
 }
 .c3 .img{
-    background-image: url("../image/project31.jpg");
+    background-image: url("/Keen-s-World/../image/project31.jpg");
 }
 .c3 .img:hover{
-    background-image: url("../image/project32.jpg");
+    background-image: url("/Keen-s-World/../image/project32.jpg");
 }
 .imghid{
     overflow: hidden;
@@ -155,7 +155,7 @@
     width: 90px;
     height: 90px;
     border-radius: 50%;
-    background-image: url("../image/tx.jpg");
+    background-image: url("/Keen-s-World/../image/tx.jpg");
     background-size: cover;
     transition: 0.5s ease 0s;
 }
